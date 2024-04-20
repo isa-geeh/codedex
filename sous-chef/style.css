@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    font-family: CherryBomb;
+}
+@font-face {
+    font-family: CherryBomb;
+    src: url(./assets/fonts/CherryBombOne-Regular.woff);
+    src: url(./assets/fonts/CherryBombOne-Regular.woff2);
+}
